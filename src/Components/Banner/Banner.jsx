@@ -3,7 +3,7 @@ import { FaFacebookF, FaTwitter, FaInstagram, FaLinkedinIn } from "react-icons/f
 
 const Banner = () => {
   return (
-    <section>
+    <section className="pt-20">
         <div className="flex flex-col md:flex-row justify-evenly items-center max-w-7xl mx-auto px-6 md:px-2 py-10 ">
             <div className="text-center md:text-left md:w-1/2 space-y-4">
                 <p className="text-lg text-black">Hi I am</p>

@@ -15,8 +15,8 @@ const Projects = () => {
                 <div className='bg-gray-200 rounded-xl w-24 p-2 border border-gray-400 shadow-sm'>
                     <p className='text-black pt-2'>UI/UX</p>
                 </div>
-                <div className='bg-gray-200 rounded-xl w-30 p-2 border border-gray-400 shadow-sm'>
-                    <p className='text-black pt-2'>Web Design</p>
+                <div className='bg-orange-500 rounded-xl w-30 p-2 shadow-sm'>
+                    <p className='text-white pt-2'>Web Design</p>
                 </div>
                 <div className='bg-gray-200 rounded-xl w-30 p-2 border border-gray-400 shadow-sm'>
                     <p className='text-black pt-2'>App Design</p>
