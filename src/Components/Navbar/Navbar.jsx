@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-scroll';
+import logoImg from '../../assets/logo.png'
 
 
 const Navbar = () => {
@@ -23,7 +24,7 @@ const Navbar = () => {
                 </div>
                 <div className="flex-1">
                     <div className='flex items-center'>
-                        <img src="src/assets/logo.png" alt="" className='w-10' />
+                        <img src={logoImg} alt="" className='w-10' />
                         <a className="btn btn-ghost text-2xl font-bold gap-0">M<span className='text-gray-500 font-normal'>umair</span></a>
                     </div>
                 </div>

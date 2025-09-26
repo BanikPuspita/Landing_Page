@@ -1,4 +1,5 @@
 import React from "react";
+import logoImg from '../../assets/logo.png'
 import {
   FaFacebookF,
   FaTwitter,
@@ -10,7 +11,7 @@ const Footer = () => {
   return (
     <div className="flex flex-col items-center pt-18 bg-gray-100">
       <div className="flex ">
-        <img src="src/assets/logo.png" alt="" className="w-10" />
+        <img src={logoImg} alt="" className="w-10" />
         <a className="btn btn-ghost text-2xl font-bold gap-0">
           M<span className="text-gray-500 font-normal">umair</span>
         </a>
