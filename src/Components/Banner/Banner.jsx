@@ -22,6 +22,7 @@ const Banner = () => {
 
             <div>
                 <img className="w-64 md:w-100" src="src/assets/profile.png" alt="" />
+                <div className='w-50 h-12 bg-orange-400/50 transform -translate-y-100 translate-x-24'></div>
                 <div className="flex gap-4 mt-4 text-2xl justify-center pt-2">
                     <a href="https://facebook.com" target="_blank" rel="noopener noreferrer"><FaFacebookF/></a>
                     <a href="https://twitter.com" target="_blank" rel="noopener noreferrer"><FaTwitter/></a>

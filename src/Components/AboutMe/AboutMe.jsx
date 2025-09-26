@@ -11,6 +11,7 @@ const AboutMe = () => {
             src="src/assets/about.png"
             alt=""
           />
+          <div className='w-50 h-12 bg-orange-400/50 transform translate-y-15 -translate-x-71 '></div>
         </div>
 
         <div className="md:w-1/2 text-center md:text-left space-y-4">
