@@ -5,7 +5,7 @@ const Projects = () => {
         <section className='flex flex-col items-center pt-20 md:pt-40'>
             <div className='flex flex-col items-center text-center'>
                 <h1 className='text-4xl font-bold'>My Projects</h1>
-                <p className='text-black pt-5'>A motivated individual seeking opportunities to learn and grow in a professional <br /> environment. Passionate about technology and problem-solving.</p>
+                <p className='text-black pt-5'>I build practical and creative projects that showcase my skills in UI/UX and web design. <br /> Each project is crafted to solve real problems and deliver engaging user experiences.</p>
             </div>
 
             <div className='flex flex-wrap justify-center gap-4 pt-8 items-center text-center'>

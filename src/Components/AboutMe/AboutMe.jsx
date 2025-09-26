@@ -15,7 +15,7 @@ const AboutMe = () => {
 
         <div className="md:w-1/2 text-center md:text-left space-y-4">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900">About Me</h2>
-            <p className="text-black">A motivated individual seeking opportunities to learn and grow in a professional environment. Passionate about technology and problem-solving.</p>
+            <p className="text-black">I am a passionate UI/UX designer with a keen eye for detail. I enjoy creating intuitive and engaging user experiences and am always eager to learn new technologies to solve real-world problems.</p>
 
             <div className="space-y-5 mt-6">
 

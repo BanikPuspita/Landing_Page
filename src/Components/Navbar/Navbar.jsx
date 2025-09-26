@@ -37,7 +37,7 @@ const Navbar = () => {
                         <li><Link to='contacts' smooth={true} duration={600} offset={-80}>Contact</Link></li>
                     </ul>
                 </div>
-                <button className='btn bg-[#FD6F00] text-white'><a href="/Mumair_CV.pdf" download="Mumair_CV">Download CV</a></button>  
+                <button className='btn bg-[#FD6F00] text-white px-6 py-2 shadow-md hover:bg-orange-600 transition'><a href="/Mumair_CV.pdf" download="Mumair_CV">Download CV</a></button>  
             </div>
        </div>
     );

@@ -39,7 +39,8 @@ const Testimonials = () => {
   return (
     <div className="max-w-7xl mx-auto pt-25 flex flex-col items-center justify-center text-center">
       <h2 className="text-4xl font-bold text-center mb-4 text-black">Testimonials</h2>
-      <p className='text-black max-w-2xl mb-10'>A motivated individual seeking opportunities to learn and grow in a professional environment. Passionate about technology and problem-solving.</p>
+      <p className='text-black max-w-2xl mb-10'>Hear from clients and collaborators who have worked with me.
+Their feedback highlights my dedication, creativity, and ability to deliver results.</p>
       <div className="w-full md:w-2/4">
         <Slider {...settings}>
         {testimonials.map((testimonial, index) => (

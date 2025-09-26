@@ -14,7 +14,8 @@ const Contact = () => {
         <section className='flex flex-col items-center pt-20 md:pt-40 pb-20'>
             <div className='flex flex-col items-center text-center'>
                 <h1 className='text-3xl md:text-4xl font-bold'>Lets Design Together</h1>
-                <p className='text-black pt-5 max-w-md text-center'>A motivated individual seeking opportunities to learn and grow in a professional environment. Passionate about technology and problem-solving.</p>
+                <p className='text-black pt-5 max-w-md text-center'>Let’s connect and create something amazing together.
+Feel free to reach out for collaborations, projects, or any inquiries.</p>
             </div>
 
             <div className='flex flex-col md:flex-row justify-center gap-5 pt-12'>

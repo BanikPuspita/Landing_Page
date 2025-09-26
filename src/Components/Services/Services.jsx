@@ -5,7 +5,7 @@ const Services = () => {
         <section className='flex flex-col items-center pt-20 sm:pt-40'>
             <div className='flex flex-col items-center text-center'>
                 <h1 className='text-3xl sm:text-4xl font-bold'>Services</h1>
-                <p className='text-black pt-5'>A motivated individual seeking opportunities to learn and grow in a professional <br /> environment. Passionate about technology and problem-solving.</p>
+                <p className='text-black pt-5 '>I provide creative and user-centered design solutions that help businesses and individuals build engaging digital <br /> experiences. From UI/UX design to responsive web interfaces, I focus on delivering high-quality, functional, and visually appealing results.</p>
             </div>
 
             <div className='flex flex-wrap justify-center gap-4 pt-8'>
